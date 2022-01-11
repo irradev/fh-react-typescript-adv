@@ -25,3 +25,9 @@
   color: white;
   border-color: #979797;
 }
+
+.shopping-cart {
+  position: fixed;
+  right: 10px;
+  top: 0px;
+}
